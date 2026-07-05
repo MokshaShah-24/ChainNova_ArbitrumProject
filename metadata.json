@@ -1,0 +1,6 @@
+{
+  "name": "ChainNova",
+  "description": "Explore the Future of Blockchain, One Block at a Time. Learn Web3, Arbitrum Layer 2, track prices, and simulate mining interactive blocks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
