@@ -117,7 +117,7 @@ Changing Block 1 automatically invalidates Block 2, illustrating blockchain immu
 Clone the repository
 
 ```bash
-git clone <>
+git clone <https://github.com/MokshaShah-24/ChainNova_ArbitrumProject>
 ```
 
 Move into the project directory
